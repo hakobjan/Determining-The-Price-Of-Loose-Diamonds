@@ -1,5 +1,6 @@
 # Determining-The-Price-Of-Loose-Diamonds
  Capstone Project
+ 
 Factors That Determine The Price Of Loose Diamonds
 Dataset contains information on 53940 diamonds. According to some characteristics we will predict the cost.
 
@@ -34,9 +35,13 @@ If a diamond's depth percentage is too large or small the diamond will become da
 
 
 What is the Daimond ?
+
+
 It's a precious stone consisting of a clear and colourless crystalline form of pure carbon, the hardest naturally occurring substance.
 
 
 
 Why the problem need to be solved
+
+
 The price of the diamond is hard to figure for normal buyer as it depends on many factors you can see two diamonds with ths same weight(carat) but stil very diffferent on price scale . " Take a look at this diamond from Amazon https://www.amazon.com/gp/product/B072L343M2/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=thediamondpro-20&creative=9325&linkCode=as2&creativeASIN=B072L343M2&linkId=b169c65833f9b1074b4c82cb125f7e58 and then take a look this diamond from Blue Nile. https://www.bluenile.com/diamond-details/LD09889381?click_id=962062758 They’re both one carat diamonds. Does it make sense that they’re the same size, yet one costs 1,179 and the other 16,500? To make it even crazier, the Blue Nile diamond may actually be a better value!" To avoid being scammed or failed to have a good baragain, a good price prediction may come in handy
